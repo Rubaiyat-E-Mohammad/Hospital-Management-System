@@ -1,0 +1,14 @@
+form label {
+    color: #fff;
+}
+
+.form-group label, p{
+    color: #fff!important;
+  }
+
+  body {
+    background-color: black;
+  }
+  p,label {
+    color: white;
+  }
